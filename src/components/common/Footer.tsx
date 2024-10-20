@@ -20,7 +20,7 @@ export const Footer = () => {
         <p className="self-stretch text-white text-[10px] font-medium font-['SUIT Variable']">
           경기 용인시 처인구 동부로 61 용인예술과학대 창의관 506-1호
         </p>
-        <div className="justify-start items-center gap-[15px] inline-flex">
+        <div className="justify-start items-pcenter gap-[15px] inline-flex">
           <p className="text-white text-[10px] font-medium font-['Helvetica Neue']">
             Email : boricolder@gmail.com
           </p>
